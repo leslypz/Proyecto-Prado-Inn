@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|solutionrelative:hotelprado.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.ui\\views\\departamento\\indexdepartamentos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|solutionrelative:hotelprado.ui\\views\\departamento\\indexdepartamentos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.ui\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|solutionrelative:hotelprado.ui\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E9D229-BFEC-4103-9224-B0AC36926736}|HotelPrado.LN\\HotelPrado.LN.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.ln\\departamentos\\listar\\listardepartamentosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E9D229-BFEC-4103-9224-B0AC36926736}|HotelPrado.LN\\HotelPrado.LN.csproj|solutionrelative:hotelprado.ln\\departamentos\\listar\\listardepartamentosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076943FF-11B8-40DE-9F98-07BDFDFAD06F}|HotelPrado.AccesoADatos\\HotelPrado.AccesoADatos.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.accesoadatos\\departamentos\\listar\\listardepartamentosad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076943FF-11B8-40DE-9F98-07BDFDFAD06F}|HotelPrado.AccesoADatos\\HotelPrado.AccesoADatos.csproj|solutionrelative:hotelprado.accesoadatos\\departamentos\\listar\\listardepartamentosad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.abstracciones\\interfaces\\accesoadatos\\departamentos\\listar\\ilistardepartamentosad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|solutionrelative:hotelprado.abstracciones\\interfaces\\accesoadatos\\departamentos\\listar\\ilistardepartamentosad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.ui\\scripts\\scriptsfront\\departamento\\lista\\listadepartamentos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7E4E1EB1-111E-4E98-9634-5293595E23E9}|HotelPrado.UI\\HotelPrado.UI.csproj|solutionrelative:hotelprado.ui\\scripts\\scriptsfront\\departamento\\lista\\listadepartamentos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35FE96-05D9-48A6-9FFB-7D062356C8AB}|HotelPrado.Servicio\\HotelPrado.Servicio.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.servicio\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35FE96-05D9-48A6-9FFB-7D062356C8AB}|HotelPrado.Servicio\\HotelPrado.Servicio.csproj|solutionrelative:hotelprado.servicio\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.abstracciones\\modelos\\departamento\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|solutionrelative:hotelprado.abstracciones\\modelos\\departamento\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35FE96-05D9-48A6-9FFB-7D062356C8AB}|HotelPrado.Servicio\\HotelPrado.Servicio.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.servicio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35FE96-05D9-48A6-9FFB-7D062356C8AB}|HotelPrado.Servicio\\HotelPrado.Servicio.csproj|solutionrelative:hotelprado.servicio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.abstracciones\\interfaces\\logicadenegocio\\departamentos\\listar\\ilistardepartamentosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|solutionrelative:hotelprado.abstracciones\\interfaces\\logicadenegocio\\departamentos\\listar\\ilistardepartamentosln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.abstracciones\\modelosdebasededatos\\departamento\\departamentotabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4D4DB9-71F9-456F-BDEC-66E8ED6A5A5E}|HotelPrado.Abstracciones\\HotelPrado.Abstracciones.csproj|solutionrelative:hotelprado.abstracciones\\modelosdebasededatos\\departamento\\departamentotabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076943FF-11B8-40DE-9F98-07BDFDFAD06F}|HotelPrado.AccesoADatos\\HotelPrado.AccesoADatos.csproj|c:\\users\\emmag\\source\\repos\\hotelprado.ui\\hotelprado.accesoadatos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076943FF-11B8-40DE-9F98-07BDFDFAD06F}|HotelPrado.AccesoADatos\\HotelPrado.AccesoADatos.csproj|solutionrelative:hotelprado.accesoadatos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexDepartamentos.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Views\\Departamento\\IndexDepartamentos.cshtml",
+              "RelativeDocumentMoniker": "HotelPrado.UI\\Views\\Departamento\\IndexDepartamentos.cshtml",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Views\\Departamento\\IndexDepartamentos.cshtml",
+              "RelativeToolTip": "HotelPrado.UI\\Views\\Departamento\\IndexDepartamentos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T00:08:03.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarDepartamentosAD.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.AccesoADatos\\Departamentos\\Listar\\ListarDepartamentosAD.cs",
+              "RelativeDocumentMoniker": "HotelPrado.AccesoADatos\\Departamentos\\Listar\\ListarDepartamentosAD.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.AccesoADatos\\Departamentos\\Listar\\ListarDepartamentosAD.cs",
+              "RelativeToolTip": "HotelPrado.AccesoADatos\\Departamentos\\Listar\\ListarDepartamentosAD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:53:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IListarDepartamentosAD.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\Interfaces\\AccesoADatos\\Departamentos\\Listar\\IListarDepartamentosAD.cs",
+              "RelativeDocumentMoniker": "HotelPrado.Abstracciones\\Interfaces\\AccesoADatos\\Departamentos\\Listar\\IListarDepartamentosAD.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\Interfaces\\AccesoADatos\\Departamentos\\Listar\\IListarDepartamentosAD.cs",
+              "RelativeToolTip": "HotelPrado.Abstracciones\\Interfaces\\AccesoADatos\\Departamentos\\Listar\\IListarDepartamentosAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:01:28.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarDepartamentosLN.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.LN\\Departamentos\\Listar\\ListarDepartamentosLN.cs",
+              "RelativeDocumentMoniker": "HotelPrado.LN\\Departamentos\\Listar\\ListarDepartamentosLN.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.LN\\Departamentos\\Listar\\ListarDepartamentosLN.cs",
+              "RelativeToolTip": "HotelPrado.LN\\Departamentos\\Listar\\ListarDepartamentosLN.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:02:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "HotelPrado.UI\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "HotelPrado.UI\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:05:35.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HotelPrado.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "HotelPrado.UI\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T23:08:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IListarDepartamentosLN.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\Interfaces\\LogicaDeNegocio\\Departamentos\\Listar\\IListarDepartamentosLN.cs",
+              "RelativeDocumentMoniker": "HotelPrado.Abstracciones\\Interfaces\\LogicaDeNegocio\\Departamentos\\Listar\\IListarDepartamentosLN.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\Interfaces\\LogicaDeNegocio\\Departamentos\\Listar\\IListarDepartamentosLN.cs",
+              "RelativeToolTip": "HotelPrado.Abstracciones\\Interfaces\\LogicaDeNegocio\\Departamentos\\Listar\\IListarDepartamentosLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:06:13.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Servicio\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "HotelPrado.Servicio\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Servicio\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "HotelPrado.Servicio\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:11:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaDepartamentos.js",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Scripts\\ScriptsFront\\Departamento\\Lista\\ListaDepartamentos.js",
+              "RelativeDocumentMoniker": "HotelPrado.UI\\Scripts\\ScriptsFront\\Departamento\\Lista\\ListaDepartamentos.js",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.UI\\Scripts\\ScriptsFront\\Departamento\\Lista\\ListaDepartamentos.js",
+              "RelativeToolTip": "HotelPrado.UI\\Scripts\\ScriptsFront\\Departamento\\Lista\\ListaDepartamentos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T22:45:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\Modelos\\Departamento\\DepartamentoDTO.cs",
+              "RelativeDocumentMoniker": "HotelPrado.Abstracciones\\Modelos\\Departamento\\DepartamentoDTO.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\Modelos\\Departamento\\DepartamentoDTO.cs",
+              "RelativeToolTip": "HotelPrado.Abstracciones\\Modelos\\Departamento\\DepartamentoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:38:30.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Servicio\\Startup.cs",
+              "RelativeDocumentMoniker": "HotelPrado.Servicio\\Startup.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Servicio\\Startup.cs",
+              "RelativeToolTip": "HotelPrado.Servicio\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:23:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartamentoTabla.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\ModelosDeBaseDeDatos\\Departamento\\DepartamentoTabla.cs",
+              "RelativeDocumentMoniker": "HotelPrado.Abstracciones\\ModelosDeBaseDeDatos\\Departamento\\DepartamentoTabla.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.Abstracciones\\ModelosDeBaseDeDatos\\Departamento\\DepartamentoTabla.cs",
+              "RelativeToolTip": "HotelPrado.Abstracciones\\ModelosDeBaseDeDatos\\Departamento\\DepartamentoTabla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:45:36.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.AccesoADatos\\Contexto.cs",
+              "RelativeDocumentMoniker": "HotelPrado.AccesoADatos\\Contexto.cs",
+              "ToolTip": "C:\\Users\\emmag\\source\\repos\\HotelPrado.UI\\HotelPrado.AccesoADatos\\Contexto.cs",
+              "RelativeToolTip": "HotelPrado.AccesoADatos\\Contexto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:37:26.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

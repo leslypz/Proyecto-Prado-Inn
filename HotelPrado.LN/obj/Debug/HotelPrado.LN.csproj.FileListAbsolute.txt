@@ -1,0 +1,14 @@
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\HotelPrado.LN.dll
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\HotelPrado.LN.pdb
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\HotelPrado.Abstracciones.dll
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\HotelPrado.AccesoADatos.dll
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\EntityFramework.dll
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\HotelPrado.Abstracciones.pdb
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\HotelPrado.AccesoADatos.pdb
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\HotelPrado.AccesoADatos.dll.config
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\bin\Debug\EntityFramework.xml
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\obj\Debug\HotelPrado.LN.csproj.AssemblyReference.cache
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\obj\Debug\HotelPrado.LN.csproj.CoreCompileInputs.cache
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\obj\Debug\HotelPra.9D6489DB.Up2Date
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\obj\Debug\HotelPrado.LN.dll
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.LN\obj\Debug\HotelPrado.LN.pdb

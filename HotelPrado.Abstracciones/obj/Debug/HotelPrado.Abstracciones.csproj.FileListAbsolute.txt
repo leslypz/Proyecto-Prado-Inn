@@ -1,0 +1,6 @@
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.Abstracciones\bin\Debug\HotelPrado.Abstracciones.dll
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.Abstracciones\bin\Debug\HotelPrado.Abstracciones.pdb
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.Abstracciones\obj\Debug\HotelPrado.Abstracciones.csproj.AssemblyReference.cache
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.Abstracciones\obj\Debug\HotelPrado.Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.Abstracciones\obj\Debug\HotelPrado.Abstracciones.dll
+C:\Users\emmag\source\repos\HotelPrado.UI\HotelPrado.Abstracciones\obj\Debug\HotelPrado.Abstracciones.pdb
